@@ -24,7 +24,7 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 ---
 
-# 📊 Key Questions Explored
+## 📊 Key Questions Explored
 
 - How has Bitcoin’s price trended over time?
 - What periods show the highest price volatility?
@@ -33,7 +33,7 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 ---
 
-# 🧠 Skills & Tools Demonstrated
+## 🧠 Skills & Tools Demonstrated
 
 - Excel – structured data analysis and reporting
 - VLOOKUP – data matching and enrichment
@@ -43,7 +43,7 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 1. Data cleaning and formatting in Excel
 2. Data enrichment using lookup functions
@@ -53,7 +53,7 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 ---
 
-# 📈 Summary of Insights
+## 📈 Summary of Insights
 
 - Bitcoin exhibits significant price volatility, with sharp increases and corrections over short time periods.
 - Long-term analysis shows clear growth cycles followed by consolidation phases.
@@ -62,7 +62,7 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 ---
 
-# 📷 Visualisations
+## 📷 Visualisations
 
 Bitcoin price trends over time
 
