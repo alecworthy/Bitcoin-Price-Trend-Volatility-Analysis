@@ -66,7 +66,12 @@ The dataset supports time-series analysis and volatility exploration using sprea
 
 Bitcoin price trends over time
 
-Volatility and price movement comparisons
+<img width="425" height="237" alt="image" src="https://github.com/user-attachments/assets/f22a6572-9187-4df8-b294-351233b55d31" />
+
+
+Monthyl Averages of Bitcoin vs SP500
+
+<img width="287" height="243" alt="image" src="https://github.com/user-attachments/assets/0e022017-d42d-47d6-9203-05ea1aaec5ba" />
 
 ---
 
